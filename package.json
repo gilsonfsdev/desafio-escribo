@@ -1,0 +1,16 @@
+{
+  "name": "desafio-escribo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "vitest run --dir src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vitest": "^0.34.6"
+  }
+}
